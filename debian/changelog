@@ -1,0 +1,5 @@
+libapache2-mod-xsendfile (0.9-1) unstable; urgency=low
+
+  * Initial release (Closes: #496220)
+
+ -- Tom Simnett <tom@initforthe.com>  Wed, 13 May 2009 14:55:55 +0100

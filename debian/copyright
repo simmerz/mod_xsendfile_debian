@@ -1,0 +1,22 @@
+This package was debianized by Tom Simnett <tom@initforthe.com> on
+Wed, 13 May 2009 16:02:17 +0100.
+
+It was downloaded from http://tn123.ath.cx/mod_xsendfile/
+
+Upstream Author:
+
+    Nils Maier
+
+Copyright:
+
+    Copyright (C) 2009 Nils Maier
+
+License:
+
+    Apache License
+    Version 2.0, January 2004
+    http://www.apache.org/licenses/
+
+The Debian packaging is copyright 2009, Tom Simnett <tom@initforthe.com> and
+is licensed under the Apache Licence, version 2.0 , see `/usr/share/common-licenses/Apache-2.0'.
+
